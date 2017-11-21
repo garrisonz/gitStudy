@@ -1,0 +1,8 @@
+lib: 
+    PitaCore: 
+    PitaLib: 1.1.1
+    PitaFramework: 
+node:
+    PitaMapHub: 3.2.0
+    PitaPathPlan:
+
